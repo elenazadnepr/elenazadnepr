@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Bio
 subtitle: In case you are wondering who I am
 ---
 
