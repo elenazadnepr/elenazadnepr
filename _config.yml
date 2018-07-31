@@ -23,12 +23,9 @@ description: To share my steps in the data science and life in general
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutme.md"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - GitHub Pages: "https://github.com/elenazadnepr/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
