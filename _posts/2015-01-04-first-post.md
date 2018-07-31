@@ -4,4 +4,4 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Hey! I've done it! I'm starting my blog to share my data science projects and any discoveries worth remembering!
