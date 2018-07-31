@@ -23,7 +23,7 @@ description: To share my steps in the data science and life in general
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "https://github.com/elenazadnepr/elenazadnepr.github.io/blob/master/aboutme.md/"
   Resources:
     - GitHub Pages: "https://github.com/elenazadnepr/"
 
