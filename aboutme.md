@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: In case you are wondering who I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### demographics
+I'm Elena Zadnepranets, live in Singapore
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### my data story
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Since I was 13 or 14 I knew that math has an **important** role to play in my life. And this is what it turned out so far:
